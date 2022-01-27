@@ -4,5 +4,25 @@
 .ms_logo-header{
     width: 80px;
     height: 20px;
-    
+}
+.ms_h-navbar{
+    min-height: 63px;
+}
+.ms_color-nav{
+        color: black;
+}
+li{
+    list-style: none;
+}
+.ms_button-debug{
+    padding: 15px;
+    border-radius: 9999px;
+    line-height: 10px;
+}
+.ms_button-navbar{
+    margin: 10px 0 0 5px;
+}
+.ms_search{
+    width: 21px;
+    height: 27px;
 }
